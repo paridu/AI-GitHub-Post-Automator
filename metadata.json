@@ -1,0 +1,7 @@
+{
+  "name": "AI GitHub Post Automator",
+  "description": "An intelligent tool that researches the latest AI, ML, and Deep Learning projects on GitHub to generate and schedule high-quality Facebook posts featuring pain points, solutions, and project links.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
